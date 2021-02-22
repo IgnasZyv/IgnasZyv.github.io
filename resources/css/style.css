@@ -27,17 +27,58 @@ h1 {
   border:1px solid #8400c1;
 }
 
+nav {
+  display: flex;
+  
+}
+
+ul {
+  margin:0 auto;
+  width:90%;
+  display:flex;
+  justify-content:space-between;
+
+}
+
+nav ul {
+  margin: 0px;
+
+}
+
+nav li {
+  margin-right: 40px;
+  margin-left: 40px;
+  list-style: none;
+  text-decoration: none;
+  display: inline;
+  font-size: 40px;
+  font-family: Impact;
+  margin:10px;
+
+}
+
+nav a {
+  color: white;
+  background-color: #510375;
+  width: 10px; height: 10px; margin: 10% auto;
+  border: #8400c1 1px solid;
+  box-shadow: 0 0 0 8px #be61e9, 0 0 0 9px #ccc;
+}
+/*
 li {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   display: inline;
+  font-size: 50px;
+  font-family: Impact;
+  color: white;
+  margin:10px;
   }
-
+*/
 img.banner {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 1rem;
   width: 100%;
-  height: 180px;
+  height: 130px;
 }
