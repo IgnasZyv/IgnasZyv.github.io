@@ -1,0 +1,10 @@
+h1 {
+    font-size: 100px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Impact;
+}
+
+body {
+    background-image: url("/resources/images/bg.png");
+}
