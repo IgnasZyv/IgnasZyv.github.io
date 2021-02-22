@@ -14,6 +14,13 @@ body {
     
 }
 
+.photos {
+    display:inline-block;
+    margin:5px 20px;
+    padding:5px;
+    border:1px solid #CCC;
+}
+
 
 ul {
     height: 10px;
