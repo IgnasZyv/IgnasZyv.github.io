@@ -25,8 +25,8 @@ nav {
 
 .photos {
   display:inline-block;
-  margin:5px 20px;
-  padding:5px;
+  margin:5px 5px;
+  padding:1px;
   border:1px solid #8400c1;
 }
 
